@@ -30,7 +30,7 @@ twitter_username: razanjoshi
 github_username: razanjoshi
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
